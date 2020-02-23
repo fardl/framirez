@@ -11,4 +11,8 @@ LazyData: true
 URL: https://github.com/fardl/framirez
 BugReports: https://github.com/fardl/framirez/issues
 RoxygenNote: 7.0.2
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat,
 VignetteBuilder: knitr
