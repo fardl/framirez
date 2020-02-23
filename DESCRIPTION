@@ -14,5 +14,6 @@ RoxygenNote: 7.0.2
 Suggests: 
     knitr,
     rmarkdown,
-    testthat
+    testthat,
+    dplyr
 VignetteBuilder: knitr
