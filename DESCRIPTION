@@ -5,19 +5,10 @@ Version: 0.1.0
 Author: Francisco A. Ramirez
 Maintainer: Francisco A. Ramirez <fardl0783@gmail.com>
 Description: This package loads .csv files on car accident data and creates a map for visualize the information.
-License: What license is it under?
+License: GPL3
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/fardl/framirez
 BugReports: https://github.com/fardl/framirez/issues
 RoxygenNote: 7.0.2
-Suggests: 
-    knitr,
-    rmarkdown,
-    testthat,
-    dplyr,
-    maps,
-    readr,
-    tidyr,
-    graphics
 VignetteBuilder: knitr
