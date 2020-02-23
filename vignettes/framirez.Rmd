@@ -1,0 +1,23 @@
+---
+title: "framirez: Visualizing Accident Data"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{function_details}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(framirez)
+```
+
+## Introduction
+
+The **framirez** package is a set of functions to import .csv data, and plot it.
