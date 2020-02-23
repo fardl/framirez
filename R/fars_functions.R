@@ -64,7 +64,7 @@ make_filename <- function(year) {
 #'
 #'@inheritParams lapply, make_filename, fars_read, error
 #'
-#@import dplyr
+#'@import dplyr
 #'
 #'@note If a year is not valid, the fuction prints a warning
 #'      of "invalid year: ", and return a NULL result.
@@ -103,7 +103,7 @@ fars_read_years <- function(years) {
 #'
 #'@inheritParams fars_read_years
 #'
-#@import dplyr
+#'@import dplyr
 #'
 #'@import tidyr
 #'
@@ -142,7 +142,7 @@ fars_summarize_years <- function(years) {
 #'
 #'@import maps
 #'
-#@import dplyr
+#'@import dplyr
 #'
 #'@import graphics
 #'
